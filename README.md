@@ -1,8 +1,8 @@
 # instagram-scraper
 
-####Python script to scrape Instagram public accounts data using official API & store in a MySQL Database.
+#### Python script to scrape Instagram public accounts data using official API & store in a MySQL Database.
 
-#####Below are the high level workflow features of the program.
+##### Below are the high level workflow features of the program.
 
  
 - Fetch 'x' number of Instgaram users IDs from source, a MySQL Database table hosted on AWS Cloud.
